@@ -1,0 +1,97 @@
+header{
+    background-color:white;
+    position: fixed;
+    z-index: 999;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 95%;
+    height: 75px;  
+}
+
+.logo{
+    width: 300px;
+    height: 200px;
+}
+
+.navigation a{
+    color: blue;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: 500;
+    padding: 10px;
+    color: gray;
+}
+
+.navigation a:hover{
+    text-decoration: none;
+    color:aqua;
+}
+
+.topic{
+    background-color: white;
+    padding: 100px 200px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.head1{
+    color: rgb(18, 228, 228);
+    padding: 10px;
+    font-size: 1.3em;
+}
+
+.parent1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color:rgb(165, 148, 148);
+}
+
+.ph1{
+    width: 500px;
+    height: 400px;
+    font-size: 1.4em;
+}
+
+.ph2{
+    width: 500px;
+    height: 400px;
+    font-size: 1.4em;
+}
+
+.parent2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 600px;
+    width: 100%;
+}
+
+.main1{
+    background-color: rgb(60, 209, 209);
+}
+
+.main2{
+    background-color: rgb(73, 73, 219);
+}
+
+.main3{
+    background-color:rgb(36, 36, 83);
+}
+
+.top{
+    font-size: 25px;
+}
+
+.logo2{
+    
+    padding: 30px;
+     
+}
+
+.pgh{
+    font-size: 20px;
+}
